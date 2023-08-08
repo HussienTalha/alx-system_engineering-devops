@@ -1,2 +1,2 @@
 #!/bin/bash
-echo path="$PWD/action" 
+echo "$PWD/action" 
