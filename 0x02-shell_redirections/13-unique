@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq > unique.txt | cat unique
+uniq -u >filtered |cat filtered 
